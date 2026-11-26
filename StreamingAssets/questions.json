@@ -1,0 +1,104 @@
+{
+  "title": "MTS and Nafeza Platform Competition Questions",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What does the abbreviation MTS stand for?",
+      "options": [
+        "Misr Trade Systems",
+        "Misr Technology Services",
+        "Modern Technology Solutions",
+        "Ministry Trade Services"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "text": "Who owns the largest share in the company (50% + 1)?",
+      "options": [
+        "The Ministry of Finance",
+        "The National Investment Bank",
+        "Admiral Management Corporation",
+        "The Egyptian Company for Investment Projects"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "text": "What goal does the company strive to achieve?",
+      "options": [
+        "Increasing customs duty revenues",
+        "Building new seaports",
+        "Making all of Egypt an advanced, world-class logistics hub",
+        "Converting customs sites into free zones"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "text": "What concept is the Nafeza platform based on?",
+      "options": [
+        "The Single Window",
+        "The multiple counter",
+        "Prior manual clearance",
+        "Free zones"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "text": "How long did it take to release goods before Nafeza?",
+      "options": [
+        "3–5 days",
+        "7–10 days",
+        "30–45 days",
+        "16–29 days"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "text": "What is the average time to release goods after Nafeza?",
+      "options": [
+        "One day",
+        "9 days",
+        "14 days",
+        "20 days"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "text": "How many seaports are covered by Nafeza?",
+      "options": [
+        "3",
+        "8",
+        "13",
+        "21"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "text": "Which of the following categories has the largest number of sites covered by Nafeza?",
+      "options": [
+        "Free zones",
+        "Warehouses",
+        "Seaports",
+        "Land ports"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "text": "Which of the following is NOT a benefit of implementing the Nafeza platform?",
+      "options": [
+        "Real-time transparency and tracking",
+        "Reduced release time and cost",
+        "Submitting transactions and making inquiries 24/7",
+        "Increased number of paper documents"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}
